@@ -1,12 +1,11 @@
 ## Welcome to GitHub Pages
 
-Será que funciona?
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Banana
+### Markdown
 
-faz be,
+
 
 ```markdown
 Syntax highlighted code block
